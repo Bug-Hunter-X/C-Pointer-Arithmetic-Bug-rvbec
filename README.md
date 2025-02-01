@@ -1,0 +1,2 @@
+# C Pointer Arithmetic Bug
+This repository demonstrates a common error in C programming related to pointer arithmetic. The code shows a scenario where incorrect pointer manipulation can lead to unexpected results or program crashes. The bug and its solution are presented to illustrate best practices in handling pointers.
